@@ -14,7 +14,7 @@ setup(
 
         ],
     include_package_data=True,    
-    description='MLFlow Renault package',
-    author='Renault DQSC-CT Team & Expleo',
+    description='MLFlow Usage package',
+    author='Baruch Amoussou-djangban',
     license='MIT'
 )

@@ -1,6 +1,6 @@
 # MLLife
 
-Package to use mlflow in Renault infrastructure. 
+Package to use mlflow. 
 
 Metrics availables : 
 - accuracy_score
